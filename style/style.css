@@ -627,7 +627,12 @@ img{
     letter-spacing: 0.03em;
     color: var(--title-text-color);
     padding-top: 40px;
+    padding-bottom: 12px;
 }
+.modal-wrap{
+    padding: 50px;
+}
+
 
 /* Portfolio */
 
