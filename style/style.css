@@ -593,6 +593,20 @@ img{
     opacity: 0;
     pointer-events: none;
 }
+
+/* Modal form */
+
+.modal-title{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.15;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: var(--title-text-color);
+    padding-top: 40px;
+}
+
 /* Portfolio */
 
 /* Filter */
