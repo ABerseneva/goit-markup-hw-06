@@ -665,6 +665,9 @@ img{
     align-items: center;
     justify-content: center;
 }
+.close-modal:hover{
+    fill: var(--accent-color);
+}
 
 .is-hidden{
     visibility: hidden;
